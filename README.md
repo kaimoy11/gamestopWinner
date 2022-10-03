@@ -90,4 +90,10 @@ Below are the instructions for how to run the program.
 	3.	Exit Program 
 	1.	Close Jupyter Notebook 
 	2.	Execute Terminal Window 
+	
+	
+	
+	![Screen Shot 2022-10-03 at 11 12 48 AM](https://user-images.githubusercontent.com/101154292/193648683-5217c84d-e2ab-447d-a229-b96671b01a23.png)
+
+	
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————
